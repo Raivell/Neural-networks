@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Распознавание объектов", "Распознавание объектов\Распознавание объектов.pyproj", "{D63C4D54-B4A6-45DE-B025-797220A436F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D63C4D54-B4A6-45DE-B025-797220A436F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63C4D54-B4A6-45DE-B025-797220A436F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {645CBB00-AEEC-4E54-965D-C984DA74F527}
+	EndGlobalSection
+EndGlobal
